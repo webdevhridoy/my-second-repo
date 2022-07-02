@@ -1,3 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-area {
+    list-style-type: none;
+    background-color: bisque;
+    padding: 12px 0;
+    text-align: center;
+}
+
+.navbar-area li {
+    display: inline;
+    padding: 0 10px;
+}
+
+.navbar-area a {
+    text-decoration: none;
+    color:gray;
+    font-size: 20px;
+}
+
 .imagesflex {
     display: inline;
 }
