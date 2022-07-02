@@ -1,0 +1,8 @@
+.imagesflex {
+    display: inline;
+}
+
+.imagesflex img {
+    width: 450px;
+    height: auto;
+}
